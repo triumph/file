@@ -2,6 +2,9 @@
     "urls": [{
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
             "name": "🐹 王二小"
+        }, {      
+            "url": "http://tvbox.gdata.fun",
+            "name": "🐹 gdata"
         }, {
             "url": "http://www.xn--sss604efuw.com/tv/",
             "name": "🐹 饭太硬"
@@ -17,12 +20,6 @@
         }, {
              "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": "🐹 小米线路"
-        }, {      
-            "url": "http://tvbox.gdata.fun",
-            "name": "🐹 gdata线路"
-        }, {
-            "url": "https://raw.gitmirror.com/cyao2q/files/master/n.json",
-            "name": "🐹 cyao2q线路"
         }, {
             "url": "http://home.jundie.top:81/top98.json",
             "name": "🐹 俊佬线路"
@@ -32,6 +29,12 @@
         }, {
             "url": "http://xn--z7x900a.com/",
             "name": "🐹 肥猫线路"
+        }, {
+            "url": "https://tvbox.catvod.com/catvod.json",
+            "name": "🐹 自用省心"
+        }, {
+            "url": "https://raw.gitmirror.com/cyao2q/files/master/n.json",
+            "name": "🐹 cyao2q线路"
         }
     ]
 }
