@@ -21,11 +21,14 @@
              "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": "🐹 小米线路"
         }, {
-            "url": "http://home.jundie.top:81/top98.json",
-            "name": "🐹 俊佬线路"
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "🐹 巧计线路"
         }, {
             "url": "https://盒子迷.top/春盈天下",
             "name": "🐹 春盈天下"
+        }, {
+            "url": "http://home.jundie.top:81/top98.json",
+            "name": "🐹 俊佬线路"
         }, {
             "url": "http://xn--z7x900a.com/",
             "name": "🐹 肥猫线路"
