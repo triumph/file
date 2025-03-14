@@ -2,9 +2,6 @@
     "urls": [{
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
             "name": "🐹 王二小"
-        }, {      
-            "url": "http://tvbox.gdata.fun",
-            "name": "🐹 gdata"
         }, {
             "url": "http://www.xn--sss604efuw.com/tv/",
             "name": "🐹 饭太硬"
@@ -32,11 +29,17 @@
         }, {
             "url": "http://xn--z7x900a.com/",
             "name": "🐹 肥猫线路"
+        }, {      
+            "url": "http://tvbox.gdata.fun",
+            "name": "🐹 老虎线路"
         }, {
             "url": "https://tvbox.catvod.com/catvod.json",
-            "name": "🐹 自用省心"
+            "name": "🐹 自用省心01"
+        }, {      
+            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/qdpdwjx/ziyuan/refs/heads/master/ziyong1.json",
+            "name": "🐹 自用省心02"
         }, {
-            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/master/m.json",
+            "url": "https://ghcy.eu.org/https://raw.githubusercontent.com/cyao2q/files/refs/heads/master/m.json",
             "name": "🐹 cyao2q线路"
         }
     ]
