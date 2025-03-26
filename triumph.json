@@ -1,8 +1,5 @@
 {
     "urls": [{
-            "url": "https://n1tvbox.99pay.pub/triumph/vod.json",
-            "name": "🐹 川普在线"
-        },{
             "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top",
             "name": "🐹 王二小"
         }, {
@@ -26,6 +23,9 @@
         }, {
              "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": "🐹 小米线路"
+        }, {
+            "url": "https://n1tvbox.99pay.pub/triumph/vod.json",
+            "name": "🐹 川普在线"
         }, {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "🐹 巧计线路"
