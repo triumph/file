@@ -21,7 +21,10 @@
             "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",  //http://www.fish2018.ip-ddns.com/z/FongMi.json
             "name": "🐹 真心线路"
         }, {
-             "url": "http://www.mpanso.com/小米/DEMO.json",
+            "url": "https://tvbox.catvod.com/xs/api.json",
+            "name": "🐹 潇洒线路"
+        }, {
+            "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": "🐹 小米线路"
         }, {
             "url": "https://xn--z7x900a.com/",
