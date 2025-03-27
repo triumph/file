@@ -27,6 +27,9 @@
             "url": "http://www.mpanso.com/小米/DEMO.json",
             "name": "🐹 小米线路"
         }, {
+            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
+            "name": "🐹 讴歌线路"
+        }, {
             "url": "https://6296.kstore.vip/facat.json",
             "name": "🐹 肥猫线路"
         }, {
@@ -35,9 +38,6 @@
         }, {
             "url": "http://hb.xyyh.online/tvbox/",
             "name": "🐹 虎斑线路"
-        }, {
-            "url": "http://tv.nxog.top/m/111.php?ou=公众号欧歌",
-            "name": "🐹 讴歌线路"
         }, {
             "url": "http://cdn.qiaoji8.com/tvbox.json",
             "name": "🐹 巧计线路"
